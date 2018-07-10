@@ -1,0 +1,1 @@
+# Genome Parser WebAssembly Module
