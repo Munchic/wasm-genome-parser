@@ -15,6 +15,7 @@ window.onload = () => {
 };
 
 const unzip = (file) => {
+  // https://gildas-lormeau.github.io/zip.js/core-api.html
   return file;
 };
 
