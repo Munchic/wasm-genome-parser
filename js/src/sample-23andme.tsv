@@ -1,0 +1,32 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # More information on reference human assembly build 37 (aka Annotation Release 104):\
+# http://www.ncbi.nlm.nih.gov/mapview/map_search.cgi?taxid=9606\
+#\
+# rsid	chromosome	position	genotype\
+rs548049170	1	69869	TT\
+rs13328684	1	74792	--\
+rs9283150	1	565508	AA\
+i713426	1	726912	--\
+rs116587930	1	727841	GG\
+rs3131972	1	752721	GG\
+rs12184325	1	754105	CC\
+rs12567639	1	756268	AA\
+rs114525117	1	759036	GG\
+rs12124819	1	776546	AG\
+rs12127425	1	794332	GG\
+rs79373928	1	801536	TT\
+rs72888853	1	815421	--\
+rs1867784	2	46534220	CC\
+rs1867785	2	46534338	GG\
+rs7579899	2	46537604	GG\
+rs7571879	2	46542408	CC\
+rs7571891	2	46542449	CC\
+rs115155791	3	104286915	TT\
+rs9870668	3	104290380	GG\
+rs6762911	3	104307168	GG}
